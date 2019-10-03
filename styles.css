@@ -2,7 +2,7 @@ body{
 font-family: Helvetica, sans-serif;
 background-image: pattern.png;
 }
-#wrapper{
+.wrapper{
   width: 77%;
   padding: 3%;
   margin-top: 33px;
@@ -14,12 +14,12 @@ background-image: pattern.png;
   background-position: center;
 
 }
-#photo{
+.photo{
   height: 100%;
   width: 100%;
   background-image: cohort.png;
 }
-#legend{
+.legend{
   color: #95484B;
   font-weight: bold;
   text-align: center;
@@ -27,7 +27,7 @@ background-image: pattern.png;
   width: 90%;
   background-position: center;
 }
-#logo{
+.logo{
   width: 11%;
   padding: 30px;
 }
