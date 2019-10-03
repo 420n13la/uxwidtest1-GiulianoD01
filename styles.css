@@ -33,7 +33,7 @@ background-image: pattern.png;
 }
 header{
   padding: 9px;
-  background-image: (to bottom #95484B,#AF595C,#6F3032);
+  background-image: linear-gradient(to bottom #95484B,#AF595C,#6F3032);
 }
 nav{
   padding: -15px;
@@ -52,6 +52,6 @@ a{
   background-color: #95484B;
   padding: 0.2em;
 }
-#x2764;{
+&#x2764;{
   color: deeppink;
 }
