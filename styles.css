@@ -9,7 +9,7 @@ background-image: pattern.png;
   margin-bottom: 33px;
   background-color: Whitesmoke;
 }
-#frame{
+.frame{
   height: 470px;
   background-position: center;
 
